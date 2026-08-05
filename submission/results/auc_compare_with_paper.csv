@@ -1,0 +1,10 @@
+метод,AUC@5,AUC@10,AUC@20,источник
+SP + SuperGlue,57.6,72.6,83.5,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+SP + LightGlue,58.8,73.6,84.1,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+XFeat,44.2,58.2,69.2,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+LoFTR,62.1,75.5,84.9,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+SURE (статья),64.7,77.7,86.8,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+RoMa,68.5,80.6,88.8,"SURE 2026, MegaDepth-1500, LO-RANSAC 0.5, 832px"
+(a) SIFT+BF,29.14,64.07,81.53,"наш прогон, ALTO Val, stride 20, lo 0.5 px, 500px"
+(b) ORB+LK,25.97,62.77,81.22,"наш прогон, ALTO Val, stride 20, lo 0.5 px, 500px"
+(c) SuperPoint+LightGlue,29.22,64.61,82.31,"наш прогон, ALTO Val, stride 20, lo 0.5 px, 500px"

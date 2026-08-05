@@ -1,0 +1,7 @@
+метод,AUC@5,источник,протокол
+SP + LightGlue,58.8,"SURE, ICRA 2026","LO-RANSAC 0.5, 832 px"
+SP + LightGlue,47.83,"DALGlue, Sci Rep 2025","RANSAC, разрешение не указано"
+SP + SuperGlue,57.6,"SURE, ICRA 2026","LO-RANSAC 0.5, 832 px"
+SP + SuperGlue,34.18,"DALGlue, Sci Rep 2025","RANSAC, разрешение не указано"
+SP + SuperGlue,56.83,SGAD,1200 px
+SP + SuperGlue,47.28,SGAD,640 px
